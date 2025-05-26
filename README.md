@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-☕️ **Caffe API**  
+**Caffe API**  
 Caffe API adalah RESTful API berbasis Laravel yang dirancang untuk mendukung sistem backend dari aplikasi pemesanan minuman (seperti coffee shop). API ini mencakup seluruh fitur utama yang dibutuhkan untuk mengelola menu, topping, ukuran minuman, orderan, transaksi, serta otentikasi pengguna.
 
-**🚀Fitur Utama**  
-**🔐 Autentikasi dan Manajemen Akun**
+**Fitur Utama**  
+**Autentikasi dan Manajemen Akun**
 
 - Login, Register, Logout
     
@@ -20,36 +20,36 @@ Caffe API adalah RESTful API berbasis Laravel yang dirancang untuk mendukung sis
 - Ubah password
     
 
-**📂 Manajemen Kategori**
+**Manajemen Kategori**
 
 - Lihat semua kategori minuman
     
 - Dukung endpoint alternatif untuk keperluan frontend
     
 
-**🍹 Menu Minuman**
+**Menu Minuman**
 
 - Lihat semua menu, filter berdasarkan kategori
     
 - Endpoint versi sederhana (/list) untuk dropdown/pilihan cepat
     
 
-**🧋Topping**
+**Topping**
 
 - Lihat daftar topping, termasuk varian endpoint alternatif
     
 
-**📏Ukuran Minuman**
+**Ukuran Minuman**
 
 - Mendukung beberapa versi endpoint (v2, v3) untuk kebutuhan UI berbeda
     
 
-**🛒Orderan / Keranjang**
+**Orderan / Keranjang**
 
 - Buat orderan, update, lihat detail, dan hapus
     
 
-**💳Transaksi**
+**Transaksi**
 
 - Checkout transaksi
     
