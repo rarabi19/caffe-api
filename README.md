@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+**Anggota Kelompok**
+1. An-Nisa
+2. Haniva Azzahra Salsabila
+3. Pangeran Nusa
+4. Muslihul Khairil
+
 **Caffe API**  
 Caffe API adalah RESTful API berbasis Laravel yang dirancang untuk mendukung sistem backend dari aplikasi pemesanan minuman (seperti coffee shop). API ini mencakup seluruh fitur utama yang dibutuhkan untuk mengelola menu, topping, ukuran minuman, orderan, transaksi, serta otentikasi pengguna.
 
